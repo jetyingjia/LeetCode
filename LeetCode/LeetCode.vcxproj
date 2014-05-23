@@ -74,11 +74,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Divide Two Integers.cpp" />
+    <ClCompile Include="Implement strStr().cpp" />
+    <ClCompile Include="priority_queue.cpp" />
+    <ClCompile Include="3Sum Closest .cpp" />
+    <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="4Sum.cpp" />
     <ClCompile Include="Add Two Numbers.cpp" />
+    <ClCompile Include="Container With Most Water.cpp" />
+    <ClCompile Include="Evaluate Reverse Polish Notation.cpp" />
+    <ClCompile Include="Generate Parentheses.cpp" />
+    <ClCompile Include="Integer to Roman.cpp" />
+    <ClCompile Include="Letter Combinations of a Phone Number.cpp" />
+    <ClCompile Include="Longest Common Prefix.cpp" />
+    <ClCompile Include="Longest Palindromic Substring.cpp" />
     <ClCompile Include="Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="Median of Two Sorted Arrays.cpp" />
+    <ClCompile Include="Merge k Sorted Lists.cpp" />
+    <ClCompile Include="Palindrome Number.cpp" />
+    <ClCompile Include="Regular Expression Matching.cpp" />
+    <ClCompile Include="Remove Duplicates from Sorted Array.cpp" />
+    <ClCompile Include="Remove Element.cpp" />
+    <ClCompile Include="Remove Nth Node From End of List.cpp" />
+    <ClCompile Include="Reverse Integer.cpp" />
+    <ClCompile Include="Reverse Nodes in k-Group.cpp" />
     <ClCompile Include="Reverse Words in a String.cpp" />
+    <ClCompile Include="Roman to Integer.cpp" />
+    <ClCompile Include="String to Integer.cpp" />
+    <ClCompile Include="Substring with Concatenation of All Words.cpp" />
+    <ClCompile Include="Swap Nodes in Pairs.cpp" />
     <ClCompile Include="Two Sum.cpp" />
+    <ClCompile Include="Valid Parentheses.cpp" />
+    <ClCompile Include="ZigZag Conversion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils.h" />
