@@ -32,7 +32,7 @@
 //#define RemoveElement 
 //#define ImplementstrStr 
 //#define DivideTwoIntegers 
-#define SubstringwithConcatenationofAllWords
-
+//#define SubstringwithConcatenationofAllWords
+#define NextPermutation 
 
 #endif

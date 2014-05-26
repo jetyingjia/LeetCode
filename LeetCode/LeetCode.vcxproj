@@ -76,6 +76,7 @@
   <ItemGroup>
     <ClCompile Include="Divide Two Integers.cpp" />
     <ClCompile Include="Implement strStr().cpp" />
+    <ClCompile Include="Next Permutation.cpp" />
     <ClCompile Include="priority_queue.cpp" />
     <ClCompile Include="3Sum Closest .cpp" />
     <ClCompile Include="3Sum.cpp" />

@@ -111,6 +111,9 @@
     <ClCompile Include="Substring with Concatenation of All Words.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Next Permutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils.h">
